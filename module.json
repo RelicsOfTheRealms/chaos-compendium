@@ -1,25 +1,12 @@
 {
   "name": "chaos-compendium",
   "title": "Compendium of Chaos",
+  "description": "A Compendium of Magic Items and Spells",
   "version": "This is auto replaced",
   "library": "false",
   "minimumCoreVersion": "9",
   "compatibleCoreVersion": "9",
-  "authors": [
-    {
-      "name": "Korvos the Kobold DM",
-      "url": "https://github.com/ChaosCompendium",
-      "discord": "Korvos#1609"
-    },
-    {
-      "name": "Glitter",
-      "url": "https://github.com/ChaosCompendium"
-    },
-    {
-      "name": "Julia",
-      "url": "https://github.com/ChaosCompendium"
-    }
-  ],
+  "author": "Korvos",
   "packs": [
         {
             "name": "module-creatures",
