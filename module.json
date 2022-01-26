@@ -1,6 +1,6 @@
 {
-  "name": "compendium-of-chaos",
-  "title": "compendium-of-chaos",
+  "name": "chaos-compendium",
+  "title": "Compendium of Chaos",
   "description": "korvos-is-based",
   "version": "This is auto replaced",
   "library": "false",
@@ -15,13 +15,11 @@
     },
     {
       "name": "Glitter",
-      "url": "https://github.com/ChaosCompendium",
-      "discord": ""
+      "url": "https://github.com/ChaosCompendium"
     },
     {
       "name": "Julia",
-      "url": "https://github.com/ChaosCompendium",
-      "discord": ""
+      "url": "https://github.com/ChaosCompendium"
     }
   ],
   "languages": [
