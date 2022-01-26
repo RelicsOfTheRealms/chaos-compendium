@@ -1,7 +1,7 @@
 {
-  "name": "module",
-  "title": "New Module",
-  "description": "",
+  "name": "compendium-of-chaos",
+  "title": "compendium-of-chaos",
+  "description": "korvos-is-based",
   "version": "This is auto replaced",
   "library": "false",
   "manifestPlusVersion": "1.0.0",
@@ -9,9 +9,19 @@
   "compatibleCoreVersion": "9",
   "authors": [
     {
-      "name": "The League of Extraordinary FVTT Developers",
-      "url": "https://github.com/League-of-Foundry-Developers",
-      "discord": "discordID#0001"
+      "name": "Korvos the Kobold DM",
+      "url": "https://github.com/ChaosCompendium",
+      "discord": "Korvos#1609"
+    },
+    {
+      "name": "Glitter",
+      "url": "https://github.com/ChaosCompendium",
+      "discord": ""
+    },
+    {
+      "name": "Julia",
+      "url": "https://github.com/ChaosCompendium",
+      "discord": ""
     }
   ],
   "dependencies": [
