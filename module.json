@@ -3,10 +3,8 @@
   "title": "Compendium of Chaos",
   "description": "A Compendium of Magic Items and Spells",
   "version": "This is auto replaced",
-  "library": "false",
-  "minimumCoreVersion": "9",
-  "compatibleCoreVersion": "9",
   "author": "Korvos",
+  "minimumCoreVersion": "9",
   "packs": [
         {
             "name": "module-creatures",
@@ -23,20 +21,7 @@
             "type": "Item"
         }
     ],
-  "languages": [
-    {
-      "lang": "en",
-      "name": "English",
-      "path": "languages/en.json"
-    }
-  ],
   "url": "This is auto replaced",
   "manifest": "This is auto replaced",
   "download": "This is auto replaced",
-  "media": [
-    {
-      "type": "icon",
-      "url": "https://avatars2.githubusercontent.com/u/71292812?s=400&u=ccdb4eeb7abf551ca8f314e5a9bfd0479a4d3d41&v=4"
-    }
-  ]
 }
