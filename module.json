@@ -1,7 +1,7 @@
 {
-  "name": "module",
-  "title": "New Module",
-  "description": "",
+  "name": "chaos-compendium",
+  "title": "Chaos Compendium",
+  "description": "A collection of magic items and spells for D&D 5e",
   "version": "This is auto replaced",
   "library": "false",
   "manifestPlusVersion": "1.0.0",
@@ -9,9 +9,9 @@
   "compatibleCoreVersion": "9",
   "authors": [
     {
-      "name": "The League of Extraordinary FVTT Developers",
-      "url": "https://github.com/League-of-Foundry-Developers",
-      "discord": "discordID#0001"
+      "name": "Korvos",
+      "url": "https://github.com/ChaosCompendium",
+      "discord": "Korvos#1609"
     }
   ],
   "dependencies": [
